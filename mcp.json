@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "pokeitem": {
+      "url": "https://api.pokeitem.fr/mcp"
+    }
+  }
+}
