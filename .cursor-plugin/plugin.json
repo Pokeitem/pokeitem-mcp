@@ -1,7 +1,7 @@
 {
   "name": "pokeitem",
   "displayName": "PokéItem",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Pokémon TCG card and sealed product prices in EUR, deal checks, and your PokéItem binder.",
   "author": { "name": "PokéItem", "email": "contact@pokeitem.fr", "url": "https://www.pokeitem.fr" },
   "homepage": "https://www.pokeitem.fr/en/assistant-ia",
