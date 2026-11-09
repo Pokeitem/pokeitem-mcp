@@ -117,6 +117,10 @@ All 29 tools carry `title`, `readOnlyHint`, `destructiveHint` and `openWorldHint
 | `price_alert_delete` | Delete a price alert |
 | `scan_card` | Identify a card from a photo |
 
+## Evaluation
+
+Review prompts, expected tools and expected answers: [docs/evaluation.md](docs/evaluation.md).
+
 ## Limits and fair use
 
 Lookups are subject to daily quotas per account; paid PokéItem plans get higher quotas. `whoami` returns your plan and remaining quotas.
